@@ -1,6 +1,7 @@
 # About
 [![OSHPark PCB Top Thumbnail](artwork/thumb_top.png?raw=true)](artwork/top.png?raw=true)
 [![OSHPark PCB Bottom Thumbnail](artwork/thumb_bottom.png?raw=true)](artwork/bottom.png?raw=true)
+[![EagleCAD Board Dimensions Thumbnail](artwork/thumb_dimensions.png?raw=true)](artwork/dimensions.png?raw=true)
 
 Custom board used to convert ethernet plug to 4-pin molex connector for the [Galactic Aztec Heavy] rocket. The board was designed to interface with the [Galactic Aztec Heavy Raspberry Pi Add-on: ADC] board.
 
